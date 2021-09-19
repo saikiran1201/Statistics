@@ -16,3 +16,4 @@ Normality test
        2. D Agostino K square test
        3. Anderson darling test
 
+Anova
